@@ -49,5 +49,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Feel free to contribute, suggest improvements, or report any issues in the repository. Thank you for exploring the **Digital Marketing Basic** project!
 ## Screenshot
-![Project Output](./)
+![Project Output](./digital-marketing-output.png)
 
