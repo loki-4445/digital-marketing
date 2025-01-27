@@ -1,0 +1,54 @@
+body{
+    margin: auto;
+    text-align: center;
+}
+.imge{
+    margin: auto;
+    margin-left: 60px;
+   
+}
+.img-slide {
+    width: 1200px;
+    height: 800px;
+    margin-left: 100px;
+    overflow: hidden; /* Ensure the container hides overflow */
+}
+
+.img-sliders {
+    border: 2px solid darkgrey;
+    opacity: 1; /* Set opacity to 1 to make the slider visible */
+}
+.images img{
+    width: 1200px;
+}
+
+.images {
+    width: 4800px; /* Four images, each 1200px wide */
+    height: 800px;
+   
+    position: relative;
+    display: flex; /* Use flexbox for proper alignment */
+    -webkit-animation-name: slide;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-duration: 24s; /* Increased duration for smoother slide */
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-play-state: running;
+}
+
+@-webkit-keyframes slide {
+    0% {
+        left: 0px;
+    }
+    25% {
+        left: 0px;
+    }
+    50% {
+        left: -1200px;
+    }
+    75% {
+        left: -2400px;
+    }
+    100% {
+        left: -3600px;
+    }
+}

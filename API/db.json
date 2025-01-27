@@ -1,0 +1,206 @@
+{
+  "users": [
+    {
+      "id": "0b4e",
+      "username": "lali",
+      "password": "lali",
+      "email": "lali@gmail.codsafd",
+      "num": "9014457103",
+      "img": "https://controlio.net/i/svg/brand-figure.svg"
+    },
+    {
+      "id": "2014"
+    },
+    {
+      "id": "5af3",
+      "username": "lali",
+      "password": "lali",
+      "email": "viv@email.com",
+      "num": "9014457103",
+      "img": "https://imageio.forbes.com/specials-images/imageserve/6109550f1aa8564670194ad4/Close-up-smiling-businesswoman-holding-computer-tablet--looking-to-side/960x0.jpg?format=jpg&width=960"
+    },
+    {
+      "id": "de06",
+      "username": "loki",
+      "password": "loki",
+      "email": "vijayawadasunny78@email.com",
+      "num": "9014457103",
+      "img": "https://imageio.forbes.com/specials-images/imageserve/6109550f1aa8564670194ad4/Close-up-smiling-businesswoman-holding-computer-tablet--looking-to-side/960x0.jpg?format=jpg&width=960"
+    },
+    {
+      "id": "8b66",
+      "username": "9999",
+      "password": "ssss",
+      "email": "viv@email.com",
+      "num": "sssssss",
+      "img": "https://imageio.forbes.com/specials-images/imageserve/6109550f1aa8564670194ad4/Close-up-smiling-businesswoman-holding-computer-tablet--looking-to-side/960x0.jpg?format=jpg&width=960"
+    },
+    {
+      "id": "847b",
+      "username": "loll",
+      "password": "loll",
+      "email": "lol@gmail.com",
+      "num": "90144",
+      "img": "https://cdn.prod.website-files.com/64022de562115a8189fe542a/651a82942e9abeceaa8d3d50_Employee-Surveys-Why-They-Are-An-Essential-Tool-For-Your-HR-Team.jpg"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "SEO Specialist",
+      "description": "Optimize website content for search engines, conduct keyword research, and monitor and analyze website traffic and rankings.",
+      "experience": "2+ years in SEO",
+      "skills": [
+        "Keyword Research",
+        "On-page SEO",
+        "Google Analytics"
+      ],
+      "employmentType": "Full-time"
+    },
+    {
+      "id": "2",
+      "title": "Content Marketing Manager",
+      "description": "Develop and manage content strategy, create engaging and informative content, and oversee blog and social media posts.",
+      "experience": "3+ years in content marketing",
+      "skills": [
+        "Content Strategy",
+        "Copywriting",
+        "Social Media Management"
+      ],
+      " ": "Full-time"
+    },
+    {
+      "id": "3",
+      "title": "Social Media Manager",
+      "description": "Plan and execute social media campaigns, engage with followers, and respond to customer inquiries.",
+      "experience": "2+ years in social media management",
+      "skills": [
+        "Social Media Strategy",
+        "Customer Engagement",
+        "Content Creation"
+      ],
+      "employmentType": "Full-time"
+    },
+    {
+      "id": "4",
+      "title": "PPC Specialist",
+      "description": "Manage pay-per-click advertising campaigns, analyze performance metrics, and optimize ads for better ROI.",
+      "experience": "2+ years in PPC",
+      "skills": [
+        "Google Ads",
+        "Bing Ads",
+        "A/B Testing"
+      ],
+      "employmentType": "Full-time"
+    },
+    {
+      "id": "5",
+      "title": "Email Marketing Specialist",
+      "description": "Create and execute email marketing campaigns, segment email lists, and analyze campaign performance.",
+      "experience": "2+ years in email marketing",
+      "skills": [
+        "Email Campaigns",
+        "List Segmentation",
+        "Analytics"
+      ],
+      "employmentType": "Full-time"
+    },
+    {
+      "id": "6",
+      "title": "Affiliate Marketing Manager",
+      "description": "Develop and manage affiliate marketing programs, recruit and support affiliates, and analyze program performance.",
+      "experience": "3+ years in affiliate marketing",
+      "skills": [
+        "Affiliate Recruitment",
+        "Program Management",
+        "Performance Analysis"
+      ],
+      "employmentType": "Full-time"
+    },
+    {
+      "id": "7",
+      "title": "Marketing Analyst",
+      "description": "Analyze marketing data, generate reports, and provide insights to optimize marketing strategies.",
+      "experience": "2+ years in marketing analytics",
+      "skills": [
+        "Data Analysis",
+        "Reporting",
+        "Google Analytics"
+      ],
+      "employmentType": "Full-time"
+    },
+    {
+      "id": "8",
+      "title": "Digital Marketing Manager",
+      "description": "Oversee digital marketing strategies, manage a team of marketers, and ensure campaigns meet objectives.",
+      "experience": "5+ years in digital marketing",
+      "skills": [
+        "Leadership",
+        "Strategy Development",
+        "Campaign Management"
+      ],
+      "employmentType": "Full-time"
+    },
+    {
+      "id": "9",
+      "title": "Conversion Rate Optimization (CRO) Specialist",
+      "description": "Optimize websites to increase conversion rates, run A/B tests, and analyze user behavior.",
+      "experience": "3+ years in CRO",
+      "skills": [
+        "A/B Testing",
+        "User Behavior Analysis",
+        "Web Analytics"
+      ],
+      "employmentType": "Full-time"
+    },
+    {
+      "id": "10",
+      "title": "E-commerce Manager",
+      "description": "Manage e-commerce websites, optimize product listings, and develop strategies to increase online sales.",
+      "experience": "3+ years in e-commerce",
+      "skills": [
+        "E-commerce Platforms",
+        "Sales Strategy",
+        "SEO"
+      ],
+      "employmentType": "Full-time"
+    },
+    {
+      "id": "11",
+      "title": "Influencer Marketing Manager",
+      "description": "Develop and manage influencer marketing campaigns, build relationships with influencers, and track campaign performance.",
+      "experience": "2+ years in influencer marketing",
+      "skills": [
+        "Influencer Outreach",
+        "Campaign Management",
+        "Performance Tracking"
+      ],
+      "employmentType": "Full-time"
+    },
+    {
+      "id": "12",
+      "title": "Marketing Automation Specialist",
+      "description": "Implement and manage marketing automation tools, create automated workflows, and analyze campaign performance.",
+      "experience": "2+ years in marketing automation",
+      "skills": [
+        "Automation Tools",
+        "Workflow Creation",
+        "Data Analysis"
+      ],
+      "employmentType": "Full-time"
+    },
+    {
+      "id": "13",
+      "title": "Web Analytics Specialist",
+      "description": "Monitor and analyze website traffic, generate insights, and recommend improvements for website performance.",
+      "experience": "2+ years in web analytics",
+      "skills": [
+        "Google Analytics",
+        "Data Interpretation",
+        "Reporting"
+      ],
+      "employmentType": "Full-time"
+    }
+  ],
+  "bag": []
+}
